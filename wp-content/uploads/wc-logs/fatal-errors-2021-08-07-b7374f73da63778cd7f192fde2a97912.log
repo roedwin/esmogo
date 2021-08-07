@@ -1,0 +1,52 @@
+2021-08-07T04:38:00+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php:254
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-includes\class-wp-widget.php(534): WC_Widget->form(Object(stdClass))
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1636): WP_Widget->form_callback(Array)
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1697): WP_Customize_Widgets->call_widget_update('woocommerce_pro...')
+#3 C:\xampp\htdocs\esmogo\wp-admin\includes\ajax-actions.php(2380): WP_Customize_Widgets->wp_ajax_update_widget()
+#4 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): wp_ajax_update_widget('')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\esmogo\wp-admin\admin-ajax.php(187): do_action('wp_ajax_update-...')
+#8 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php en la línea 254
+
+2021-08-07T04:39:15+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php:254
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-includes\class-wp-widget.php(534): WC_Widget->form(Object(stdClass))
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1636): WP_Widget->form_callback(Array)
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1697): WP_Customize_Widgets->call_widget_update('woocommerce_pro...')
+#3 C:\xampp\htdocs\esmogo\wp-admin\includes\ajax-actions.php(2380): WP_Customize_Widgets->wp_ajax_update_widget()
+#4 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): wp_ajax_update_widget('')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\esmogo\wp-admin\admin-ajax.php(187): do_action('wp_ajax_update-...')
+#8 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php en la línea 254
+
+2021-08-07T04:39:19+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php:254
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-includes\class-wp-widget.php(534): WC_Widget->form(Object(stdClass))
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1636): WP_Widget->form_callback(Array)
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1697): WP_Customize_Widgets->call_widget_update('woocommerce_pro...')
+#3 C:\xampp\htdocs\esmogo\wp-admin\includes\ajax-actions.php(2380): WP_Customize_Widgets->wp_ajax_update_widget()
+#4 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): wp_ajax_update_widget('')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\esmogo\wp-admin\admin-ajax.php(187): do_action('wp_ajax_update-...')
+#8 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php en la línea 254
+
+2021-08-07T04:39:20+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php:254
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-includes\class-wp-widget.php(534): WC_Widget->form(Object(stdClass))
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1636): WP_Widget->form_callback(Array)
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-customize-widgets.php(1697): WP_Customize_Widgets->call_widget_update('woocommerce_pro...')
+#3 C:\xampp\htdocs\esmogo\wp-admin\includes\ajax-actions.php(2380): WP_Customize_Widgets->wp_ajax_update_widget()
+#4 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): wp_ajax_update_widget('')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\esmogo\wp-admin\admin-ajax.php(187): do_action('wp_ajax_update-...')
+#8 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-widget.php en la línea 254
+
