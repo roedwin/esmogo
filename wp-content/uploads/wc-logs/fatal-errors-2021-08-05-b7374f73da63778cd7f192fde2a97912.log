@@ -1,0 +1,8 @@
+2021-08-05T17:55:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\widgets\class-wp-widget-tag-cloud.php en la línea 218
+
+2021-08-05T18:02:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-lite\includes\Vendor\SetupWizard.php en la línea 11
+
+2021-08-05T19:32:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\wp-popup-builder\inc\popup-init.php en la línea 2
+
+2021-08-05T19:39:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\wp-popup-builder\front\shortcode.php en la línea 2
+

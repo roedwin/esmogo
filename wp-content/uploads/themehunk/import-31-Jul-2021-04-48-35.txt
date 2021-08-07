@@ -1,0 +1,32 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.7
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 8.0.7
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: No
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/Madrid
+
+-----
+
+Importing Started! - 04:54:20 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://themehunk.com/
+
+---
+
+Importing from XML 
+Imported Customizer Settings 
+Imported - Site Options 
+Imported - Widgets 
+Complete 
