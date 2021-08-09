@@ -434,9 +434,7 @@ function dokan_author_total_sales( $seller_id ) {
             $wpdb->prepare( "SELECT SUM(order_total) as earnings FROM {$wpdb->prefix}dokan_orders WHERE seller_id = %d AND order_status IN('wc-completed', 'wc-processing', 'wc-on-hold')", $seller_id )
         );
 
-        //arreglo
-
-        //$earnings = $count->earnings;
+        $earnings = $count->earnings;
 
         wp_cache_set( $cache_key, $earnings, $cache_group );
         dokan_cache_update_group( $cache_key, $cache_group );
