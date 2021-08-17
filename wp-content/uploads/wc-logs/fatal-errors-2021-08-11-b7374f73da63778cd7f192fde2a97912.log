@@ -1,0 +1,4 @@
+2021-08-11T23:47:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\wp-db.php en la línea 2056
+
+2021-08-11T23:47:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-pro\modules\vendor-verification\module.php en la línea 348
+

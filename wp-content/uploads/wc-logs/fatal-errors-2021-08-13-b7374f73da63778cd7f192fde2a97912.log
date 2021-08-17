@@ -1,0 +1,52 @@
+2021-08-13T00:00:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\template.php en la línea 703
+
+2021-08-13T00:00:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\blocks.php en la línea 198
+
+2021-08-13T00:01:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\i18n\countries.php en la línea 17
+
+2021-08-13T00:01:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-lite\includes\Commission.php en la línea 855
+
+2021-08-13T00:02:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\elementor\includes\autoloader.php en la línea 293
+
+2021-08-13T00:03:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocustomizer\freemius\includes\class-fs-storage.php en la línea 9
+
+2021-08-13T00:03:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocustomizer\includes\customizer\customizer-library\customizer-library.php en la línea 12
+
+2021-08-13T00:07:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-pro\modules\follow-store\includes\class-dokan-follow-store-send-updates.php en la línea 210
+
+2021-08-13T00:08:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\elementor\includes\autoloader.php en la línea 293
+
+2021-08-13T00:08:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\elementor\includes\autoloader.php en la línea 293
+
+2021-08-13T00:09:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\elementor\includes\template-library\sources\local.php en la línea 13
+
+2021-08-13T00:10:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\includes\admin\wc-admin-functions.php en la línea 9
+
+2021-08-13T00:10:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\wp-db.php en la línea 2056
+
+2021-08-13T00:10:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-lite\includes\Dashboard\Manager.php en la línea 8
+
+2021-08-13T00:11:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php en la línea 1095
+
+2021-08-13T00:13:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocustomizer\freemius\includes\class-freemius.php en la línea 2110
+
+2021-08-13T00:13:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-pro\includes\Module.php en la línea 84
+
+2021-08-13T00:14:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\CategoryLookup.php en la línea 8
+
+2021-08-13T00:14:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\elementor\includes\autoloader.php en la línea 293
+
+2021-08-13T00:15:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\elementor\includes\autoloader.php en la línea 293
+
+2021-08-13T00:15:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\class-requests.php en la línea 145
+
+2021-08-13T00:48:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-lite\includes\wc-template.php en la línea 24
+
+2021-08-13T00:50:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocustomizer\freemius\includes\class-fs-api.php en la línea 9
+
+2021-08-13T01:16:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocustomizer\freemius\includes\managers\class-fs-license-manager.php en la línea 9
+
+2021-08-13T01:18:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\l10n.php en la línea 1374
+
+2021-08-13T22:58:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\dokan-pro\modules\vendor-verification\includes\theme-functions.php en la línea 151
+

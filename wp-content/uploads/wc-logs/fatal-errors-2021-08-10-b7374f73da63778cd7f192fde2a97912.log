@@ -1,0 +1,226 @@
+2021-08-10T00:02:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-includes\widgets\class-wp-widget-calendar.php en la línea 106
+
+2021-08-10T00:05:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\pagination\pagination.php en la línea 9
+
+2021-08-10T00:09:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-admin\includes\class-custom-image-header.php en la línea 1603
+
+2021-08-10T16:01:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:02:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:02:02+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:02:02+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:03:55+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:04:57+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:04:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:04:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:05:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:05:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+
+2021-08-10T16:05:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php:27
+Stack trace:
+#0 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php(33): top_store_pro_cart_total_item()
+#1 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_pro_menu_cart_view('')
+#2 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\header-function.php(984): do_action('top_store_cart_...')
+#5 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): top_store_mobile_navbar('')
+#6 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\esmogo\wp-includes\general-template.php(3031): do_action('wp_footer')
+#9 C:\xampp\htdocs\esmogo\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#10 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#11 C:\xampp\htdocs\esmogo\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\esmogo\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\esmogo\wp-admin\admin.php(175): do_action('admin_init')
+#14 C:\xampp\htdocs\esmogo\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown en C:\xampp\htdocs\esmogo\wp-content\themes\top-store-pro\inc\woocommerce\woo-function.php en la línea 27
+

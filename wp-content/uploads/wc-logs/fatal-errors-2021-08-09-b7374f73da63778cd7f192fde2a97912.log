@@ -1,0 +1,6 @@
+2021-08-09T23:31:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\CustomerEffortScoreTracks.php en la línea 10
+
+2021-08-09T23:46:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Domain\Services\FeatureGating.php en la línea 141
+
+2021-08-09T23:59:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\esmogo\wp-admin\includes\theme.php en la línea 1173
+
